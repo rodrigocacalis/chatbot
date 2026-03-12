@@ -1,0 +1,17 @@
+{
+    "name": "IA na Pratica - FINAL",
+    "image": "tiryoh/ros2-desktop-vnc:humble",
+    "remoteUser": "root",
+    "overrideCommand": false,
+    "containerEnv": {
+        "DISPLAY": ":1"
+    },
+    "forwardPorts": [80], // Mudamos de 6080 para 80!
+    "portsAttributes": {
+        "80": {
+            "label": "Interface Visual (Acesse via Navegador)",
+            "onAutoForward": "openPreview"
+        }
+    },
+    "postCreateCommand": "pip3 install openai opencv-python"
+}
