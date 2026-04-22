@@ -1,5 +1,4 @@
 openai
-google-generativeai
 python-dotenv
 pandas
 streamlit
