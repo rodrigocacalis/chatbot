@@ -1,0 +1,99 @@
+========================================
+DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL ELETRÔNICA
+========================================
+
+NF-e Nº: 693983
+SÉRIE: 25
+FOLHA: 1/1
+
+CHAVE DE ACESSO:
+3519 0547 9609 5008 9785 5502 5000 6939 8310 5123 1858
+
+PROTOCOLO DE AUTORIZAÇÃO DE USO:
+135190361212099 - 21/05/2019 15:25:00
+
+Consulta de autenticidade: www.nfe.fazenda.gov.br/portal
+
+----------------------------------------
+EMITENTE
+----------------------------------------
+MAGAZINE LUIZA S/A
+CNPJ: 47.960.950/0897-85
+Insc. Estadual: 421021117115
+Rod. Bandeirantes S/N, KM 68 e 760 Metros S - Rio Abaixo
+Louveira - SP - CEP: 13290000
+
+----------------------------------------
+NATUREZA DA OPERAÇÃO
+----------------------------------------
+VENDA MERCADORIA ADQUIR/RECEB TERCEIROS TP:51
+
+----------------------------------------
+DESTINATÁRIO / REMETENTE
+----------------------------------------
+Nome: OLLYVER OTTOBONI
+CPF: 126.295.868-71
+Data de Emissão: 21/05/2019
+Endereço: Antonio Borges da Fonseca 39
+Bairro / Distrito: JD FLORESTA
+Município: SAO PAULO
+UF: SP
+CEP: 04836-120
+Fone/Fax: 11976643126
+Data da Saída/Entrada: 21/05/2019
+Hora de Saída/Entrada: 16:24:33-03:00
+
+----------------------------------------
+DADOS DO PRODUTO / SERVIÇO
+----------------------------------------
+Cód. Prod.: 5763764
+Descrição: NOTEBOOK CI7 8GB 2TB 2GB W10 - 3576-A70C CINZA NA
+NCM/SH: 84713019
+CST: 460
+CFOP: 5405
+Unid.: PC
+Qtde: 1,0000
+Vl. Unitário: R$ 3.254,07
+Vl. Total: R$ 3.254,07
+VLR BC-ST RETIDO: R$ 2.821,85
+VLR ICMS-ST RETIDO: R$ 117,42
+
+----------------------------------------
+CÁLCULO DO IMPOSTO
+----------------------------------------
+Base de Cálculo do ICMS:     R$    0,00
+Valor do ICMS:               R$    0,00
+Base de Cálculo do ICMS ST:  R$    0,00
+Valor do ICMS ST:            R$    0,00
+Valor Aprox. dos Tributos:   R$    0,00
+Valor Total dos Produtos:    R$ 3.254,07
+Valor do Frete:              R$    0,00
+Valor do Seguro:             R$    0,00
+Desconto:                    R$    0,00
+Outras Despesas Acessórias:  R$    0,00
+Valor do IPI:                R$    0,00
+VALOR TOTAL DA NOTA:         R$ 3.254,07
+
+----------------------------------------
+TRANSPORTADOR / VOLUMES
+----------------------------------------
+Frete por Conta: 0 - Emitente
+Quantidade: 1 VOLUMES
+Peso Bruto: 4.000
+Peso Líquido: 4.000
+
+----------------------------------------
+INFORMAÇÕES COMPLEMENTARES
+----------------------------------------
+Valores totais do ICMS Interestadual: DIFAL da UF destino R$0,00 + FCP R$0,00; DIFAL da UF origem R$0,00.
+Inf. Contribuinte: Val Aprox Tributos R$824,26 (25,33%) Fonte: IBPT
+FEDERAIS 13,33% / ESTADUAIS 12,00% / MUNICIPAIS 0%
+BC. RED. ART. 27, INCISO I, ANEXO II, RESOL. SF 14/13
+ICMS RET. POR ST CFE 313-Z19
+NUM. PEDIDO: 496581204
+CODCLI: 19773157
+LOTE: 1685932
+CODVENDR: 6001
+OBS.PED: REF.: (11) 976643126
+ENDEREÇO LOJA ENTREGA: DOUTOR EDUARDO COTCHING 2130 BAIRRO VILA FORMOSA SAO PAULO SP
+MODAL: RLE
